@@ -1,0 +1,187 @@
+﻿{"frames": {
+
+"Zombie10000":
+{
+	"frame": {"x":147,"y":10,"w":40,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":54,"h":67},
+	"sourceSize": {"w":54,"h":67}
+},
+"Zombie10001":
+{
+	"frame": {"x":202,"y":10,"w":42,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":54,"h":67},
+	"sourceSize": {"w":54,"h":67}
+},
+"Zombie10002":
+{
+	"frame": {"x":10,"y":91,"w":42,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":54,"h":67},
+	"sourceSize": {"w":54,"h":67}
+},
+"Zombie10003":
+{
+	"frame": {"x":67,"y":91,"w":44,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":6,"w":54,"h":67},
+	"sourceSize": {"w":54,"h":67}
+},
+"Zombie10004":
+{
+	"frame": {"x":126,"y":91,"w":54,"h":38},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":29,"w":54,"h":67},
+	"sourceSize": {"w":54,"h":67}
+},
+"Zombie20000":
+{
+	"frame": {"x":195,"y":91,"w":40,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":1,"w":54,"h":66},
+	"sourceSize": {"w":54,"h":66}
+},
+"Zombie20001":
+{
+	"frame": {"x":10,"y":168,"w":42,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":54,"h":66},
+	"sourceSize": {"w":54,"h":66}
+},
+"Zombie20002":
+{
+	"frame": {"x":67,"y":168,"w":42,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":1,"w":54,"h":66},
+	"sourceSize": {"w":54,"h":66}
+},
+"Zombie20003":
+{
+	"frame": {"x":124,"y":168,"w":45,"h":55},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":7,"w":54,"h":66},
+	"sourceSize": {"w":54,"h":66}
+},
+"Zombie20004":
+{
+	"frame": {"x":184,"y":168,"w":54,"h":37},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":29,"w":54,"h":66},
+	"sourceSize": {"w":54,"h":66}
+},
+"Zombie30000":
+{
+	"frame": {"x":10,"y":245,"w":41,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":0,"w":73,"h":88},
+	"sourceSize": {"w":73,"h":88}
+},
+"Zombie30001":
+{
+	"frame": {"x":66,"y":245,"w":43,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":0,"w":73,"h":88},
+	"sourceSize": {"w":73,"h":88}
+},
+"Zombie30002":
+{
+	"frame": {"x":124,"y":245,"w":42,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":0,"w":73,"h":88},
+	"sourceSize": {"w":73,"h":88}
+},
+"Zombie30003":
+{
+	"frame": {"x":181,"y":245,"w":49,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":9,"w":73,"h":88},
+	"sourceSize": {"w":73,"h":88}
+},
+"Zombie30004":
+{
+	"frame": {"x":10,"y":339,"w":70,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":46,"w":73,"h":88},
+	"sourceSize": {"w":73,"h":88}
+},
+"Zombie40000":
+{
+	"frame": {"x":95,"y":339,"w":40,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":69,"h":83},
+	"sourceSize": {"w":69,"h":83}
+},
+"Zombie40001":
+{
+	"frame": {"x":150,"y":339,"w":42,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":69,"h":83},
+	"sourceSize": {"w":69,"h":83}
+},
+"Zombie40002":
+{
+	"frame": {"x":10,"y":428,"w":42,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":0,"w":69,"h":83},
+	"sourceSize": {"w":69,"h":83}
+},
+"Zombie40003":
+{
+	"frame": {"x":67,"y":428,"w":48,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":7,"w":69,"h":83},
+	"sourceSize": {"w":69,"h":83}
+},
+"Zombie40004":
+{
+	"frame": {"x":130,"y":428,"w":67,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":41,"w":69,"h":83},
+	"sourceSize": {"w":69,"h":83}
+},
+"player0000":
+{
+	"frame": {"x":10,"y":10,"w":49,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":66},
+	"sourceSize": {"w":58,"h":66}
+},
+"player0001":
+{
+	"frame": {"x":74,"y":10,"w":58,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":58,"h":66},
+	"sourceSize": {"w":58,"h":66}
+}},
+"meta": {
+	"app": "Adobe Flash CS6",
+	"version": "12.0.0.481",
+	"image": "zombies.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}
